@@ -102,14 +102,5 @@ public class HomeController : Controller
             return monto * 0.18m;
         }
 
-        public static decimal CalcularTotal(decimal monto, decimal comision, bool aplicarIGV)
-        {
-            decimal total = monto + comision;
-            if (aplicarIGV)
-            {
-                total += CalcularIGV(monto);
-            }
-            return total;
-        }
     }
 }
