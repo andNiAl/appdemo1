@@ -1,0 +1,109 @@
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+</head>
+@model appdemo.Models.OperacionBolsa
+@{
+    ViewBag.Title = "Operar en Bolsa";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center">Operar en Bolsa</h2>
+
+    <form asp-action="Operar" method="post">
+        <div class="form-group">
+            <label for="NombreApellido">Nombre y Apellido</label>
+            <input asp-for="NombreApellido" class="form-control" type="text" required placeholder="Ingrese su nombre completo" />
+            <span asp-validation-for="NombreApellido" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <label for="Email">Correo Electrónico</label>
+            <input asp-for="Email" class="form-control" type="email" required placeholder="nombre@ejemplo.com" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <label for="FechaOperacion">Fecha de Operación</label>
+            <input asp-for="FechaOperacion" class="form-control" type="date" required />
+            <span asp-validation-for="FechaOperacion" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <label>Instrumentos</label><br />
+            <div class="form-check">
+                <input asp-for="SP500" class="form-check-input" type="checkbox" id="SP500" />
+                <label for="SP500" class="form-check-label">S&P 500 (500$)</label> 
+            </div>
+            <div class="form-check">
+                <input asp-for="DowJones" class="form-check-input" type="checkbox" id="DowJones" />       
+                <label for="DowJones" class="form-check-label">Dow Jones (300$)</label>
+            </div>
+            <div class="form-check">
+                <input asp-for="BonosUS" class="form-check-input" type="checkbox" id="BonosUS" />
+                <label for="BonosUS" class="form-check-label">Bonos US (120$)</label> 
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label for="MontoAbonar">Monto a Abonar</label>
+            <input asp-for="MontoAbonar" class="form-control" type="number" min="0" required placeholder="Ingrese el monto" />
+            <span asp-validation-for="MontoAbonar" class="text-danger"></span>
+        </div>
+        
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Invertir</button>
+        </div>
+    </form>
+
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="alert alert-danger mt-3">
+            Completa adecuadamente el formulario
+        </div>
+    }
+
+    @if (ViewBag.TotalFinal != null)
+    {
+        <div class="mt-5">
+            <h2 class="mb-4 text-center">Resultado</h2>
+            <table class="table table-striped table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">Número</th>
+                        <th scope="col">Instrumento</th>
+                        <th scope="col">IGV $</th>
+                        <th scope="col">Monto $</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>S&P 500 (500$)</td>        
+                        <td>@ViewBag.IGVSP500</td>
+                        <td>@(ViewBag.IGVSP500 != 0 ? (decimal)ViewBag.IGVBonosUS + 120 : 0)</td>            
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Dow Jones (300$)</td> 
+                        <td>@ViewBag.IGVDowJones</td>
+                        <td>@(ViewBag.IGVDowJones != 0 ? (decimal)ViewBag.IGVDowJones + 120 : 0)</td>            
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Bonos US (120$)</td> 
+                        <td>@ViewBag.IGVBonosUS</td>
+                        <td>@(ViewBag.IGVBonosUS != 0 ? (decimal)ViewBag.IGVBonosUS + 120 : 0)</td>            
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="text-center">
+                <h3>Total a Pagar: @ViewBag.TotalTabla</h3>
+                <h3>Comisión: @ViewBag.Comision</h3>
+                <h3>Resultado final + monto + comisión: @ViewBag.TotalFinal</h3>
+                <h3>Fecha de la operación: @ViewBag.DatosOperacion.FechaOperacion</h3>
+                <a class="btn btn-success mt-3" asp-area="" asp-controller="Home" asp-action="Operar">Realizar pago</a>
+            </div>
+        </div>
+    }
+</div>

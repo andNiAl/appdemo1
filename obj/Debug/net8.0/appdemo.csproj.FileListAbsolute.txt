@@ -1,0 +1,90 @@
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\bin\Debug\net8.0\appdemo.staticwebassets.runtime.json
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\bin\Debug\net8.0\appdemo.exe
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\bin\Debug\net8.0\appdemo.deps.json
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\bin\Debug\net8.0\appdemo.runtimeconfig.json
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\bin\Debug\net8.0\appdemo.dll
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\bin\Debug\net8.0\appdemo.pdb
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\appdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\appdemo.AssemblyInfoInputs.cache
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\appdemo.AssemblyInfo.cs
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\appdemo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\appdemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\appdemo.RazorAssemblyInfo.cache
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\appdemo.RazorAssemblyInfo.cs
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.appdemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.build.appdemo.props
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.appdemo.props
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.appdemo.props
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\scopedcss\bundle\appdemo.styles.css
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\scopedcss\projectbundle\appdemo.bundle.scp.css
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\appdemo.dll
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\refint\appdemo.dll
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\appdemo.pdb
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\appdemo.genruntimeconfig.cache
+C:\Users\user\Documents\UNIVERSIDAD\programacion 1\appdemo\obj\Debug\net8.0\ref\appdemo.dll
+D:\appdemo\obj\Debug\net8.0\appdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\appdemo\obj\Debug\net8.0\appdemo.AssemblyInfoInputs.cache
+D:\appdemo\obj\Debug\net8.0\appdemo.AssemblyInfo.cs
+D:\appdemo\obj\Debug\net8.0\appdemo.csproj.CoreCompileInputs.cache
+D:\appdemo\obj\Debug\net8.0\appdemo.MvcApplicationPartsAssemblyInfo.cache
+D:\appdemo\obj\Debug\net8.0\appdemo.RazorAssemblyInfo.cache
+D:\appdemo\obj\Debug\net8.0\appdemo.RazorAssemblyInfo.cs
+D:\appdemo\obj\Debug\net8.0\appdemo.dll
+D:\appdemo\obj\Debug\net8.0\refint\appdemo.dll
+D:\appdemo\obj\Debug\net8.0\appdemo.pdb
+D:\appdemo\bin\Debug\net8.0\appsettings.Development.json
+D:\appdemo\bin\Debug\net8.0\appsettings.json
+D:\appdemo\bin\Debug\net8.0\appdemo.staticwebassets.runtime.json
+D:\appdemo\bin\Debug\net8.0\appdemo.exe
+D:\appdemo\bin\Debug\net8.0\appdemo.deps.json
+D:\appdemo\bin\Debug\net8.0\appdemo.runtimeconfig.json
+D:\appdemo\bin\Debug\net8.0\appdemo.dll
+D:\appdemo\bin\Debug\net8.0\appdemo.pdb
+D:\appdemo\obj\Debug\net8.0\staticwebassets.build.json
+D:\appdemo\obj\Debug\net8.0\staticwebassets.development.json
+D:\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.appdemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.build.appdemo.props
+D:\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.appdemo.props
+D:\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.appdemo.props
+D:\appdemo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\appdemo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\appdemo\obj\Debug\net8.0\scopedcss\bundle\appdemo.styles.css
+D:\appdemo\obj\Debug\net8.0\scopedcss\projectbundle\appdemo.bundle.scp.css
+D:\appdemo\obj\Debug\net8.0\appdemo.genruntimeconfig.cache
+D:\appdemo\obj\Debug\net8.0\ref\appdemo.dll
+C:\Users\user\Downloads\for u uwu\appdemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Downloads\for u uwu\appdemo\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Downloads\for u uwu\appdemo\bin\Debug\net8.0\appdemo.staticwebassets.runtime.json
+C:\Users\user\Downloads\for u uwu\appdemo\bin\Debug\net8.0\appdemo.exe
+C:\Users\user\Downloads\for u uwu\appdemo\bin\Debug\net8.0\appdemo.deps.json
+C:\Users\user\Downloads\for u uwu\appdemo\bin\Debug\net8.0\appdemo.runtimeconfig.json
+C:\Users\user\Downloads\for u uwu\appdemo\bin\Debug\net8.0\appdemo.dll
+C:\Users\user\Downloads\for u uwu\appdemo\bin\Debug\net8.0\appdemo.pdb
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\appdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\appdemo.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\appdemo.AssemblyInfo.cs
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\appdemo.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\appdemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\appdemo.RazorAssemblyInfo.cache
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\appdemo.RazorAssemblyInfo.cs
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.appdemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.build.appdemo.props
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.appdemo.props
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.appdemo.props
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\scopedcss\bundle\appdemo.styles.css
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\scopedcss\projectbundle\appdemo.bundle.scp.css
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\appdemo.dll
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\refint\appdemo.dll
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\appdemo.pdb
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\appdemo.genruntimeconfig.cache
+C:\Users\user\Downloads\for u uwu\appdemo\obj\Debug\net8.0\ref\appdemo.dll
